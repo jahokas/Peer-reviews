@@ -6,6 +6,9 @@ In this assignment,
 
 In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
 
++ nordic style table-ware and pastries
++ sell cups and tellers
+
 _It comes down to a combination of restaurant concept and ideal customer. If you can define your restaurant type and identify your target demographic and its most populated areas, you’ll be well on your way to choosing a restaurant location that sets your business up for success._
 
 _Bar & Bistro: 25-45 age range, high disposable income, often takes place after work, often spontaneous, most customers drink alcohol, relaxed social ambiance is important, price point depends on the neighborhood._
