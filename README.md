@@ -6,6 +6,8 @@ In this assignment,
 
 In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
 
+_It comes down to a combination of restaurant concept and ideal customer. If you can define your restaurant type and identify your target demographic and its most populated areas, you’ll be well on your way to choosing a restaurant location that sets your business up for success._
+
 _A description of the problem and a discussion of the background_
 
 _Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem._
