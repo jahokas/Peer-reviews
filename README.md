@@ -1,7 +1,7 @@
 # Peer-graded Assignment: Capstone project
 
 
-# Peer-graded Assignment: Segmenting and Clustering Neighborhoods in Toronto
+## Peer-graded Assignment: Segmenting and Clustering Neighborhoods in Toronto
 
 In this assignment, I have explored, segmented, and clustered the neighborhoods in the city of Toronto. Feel free to explore the notebook by adding your Fourtsquare credentials you can perform the same analysis (CLIENT_ID and CLIENT_SECRET).
 
