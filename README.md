@@ -1,15 +1,13 @@
-# Peer-graded Assignment: Locating a perfect place for a nice Scandinavian Cafe in Lyon
+# Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
 
 In this assignment, 
 
 In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
 
-## Week 1
-
 ### 1. A description of the problem and a discussion of the background
 
 
-### 2. A description of the data and how it will be used to solve the problem. (15 marks)
+### 2. A description of the data and how it will be used to solve the problem
 
 
 
