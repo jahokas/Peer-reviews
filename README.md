@@ -23,7 +23,7 @@ City centres and pedestrian streets have been found good places to establish a n
 
 ## 2. Data
 
-Here, I describe the data that I will be using to solve the business problem prented in the first chapter. The Foursquare location data and technology plays a major role in the assignemnt. In addition, I will provide statistical facts that help to assess if the location meet requirements of the business concept pertaining to demographical and market growth rate.
+Here, I describe the data that I will be using to solve the business problem presented in the first chapter. The Foursquare location data and technology plays a major role in the assignment. In addition, I will provide statistical facts that help to assess if the location meet requirements of the business concept pertaining to demographical and market growth rate.
 
 The below I list data sources, their data elements and links to the data sources.
 
@@ -33,8 +33,7 @@ The below I list data sources, their data elements and links to the data sources
 
 The following data will be located and extracted in the 'Map-of-France' data source:
 + Historical data of the population
-+ Population distribution by sexe
-+ Population
++ Population distribution by sex
 + births and deaths
 + Distribution of the population by age
 + Men population distribution by age
@@ -45,7 +44,7 @@ link: http://www.map-france.com/Lyon-69000/population-Lyon.html
 
 **World of population Review**
 
-The World of Population Review data sets will be used as an additional data source to get new data and check demografical data from other data sources.
+The World of Population Review data sets will be used as an additional data source to get new data and check demographical  data from other data sources.
 
 link: https://worldpopulationreview.com/world-cities/lyon-population/
 
@@ -65,11 +64,11 @@ link: http://fr-city.census.okfn.org/place/lyon
 
 **Foursquare**
 
-I will use Foursquare data sets to explore and cluster the neighborhoods in the city of Lyon. The work will be divided in the following prelimenary topics:
+I will use Foursquare data sets to explore and cluster the neighbourhoods in the city of Lyon. The work will be divided in the following preliminary topics:
 + the map of Lyon
-+ location of venues around neigbourhoods
-+ Explorion and analysis of neighborhoods
-+ Clustering the neighborhoods and examining the cluster
++ location of venues around neighbourhoods
++ Exploration and analysis of neighbourhoods
++ Clustering the neighbourhoods and examining the cluster
 
 link: https://foursquare.com
 
