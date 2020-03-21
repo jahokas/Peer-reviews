@@ -122,7 +122,7 @@ The colour label is presented in the map. The clusters you can find in the end o
 2. Adding latitudes and longitudes of neighborhoods in the dataframe
 3. The replication of the analysis with Lyon data set
 
-## Submitted and Accepted Assignments
+## Previous submitted and accepted assignments
 
 ### Peer-graded Assignment: Segmenting and Clustering Neighborhoods in Toronto
 
