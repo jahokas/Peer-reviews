@@ -26,9 +26,19 @@ _Clearly define a problem or an idea of your choice, where you would need to lev
 
 _This submission will eventually become your Introduction/Business Problem section in your final report. So I recommend that you push the report (having your Introduction/Business Problem section only for now) to your Github repository and submit a link to it._
 
+***How to Choose the Best Restaurant Location for Your Business**
+
+https://fitsmallbusiness.com/choose-a-restaurant-location/
+
+***How Restaurant Analytics Can Make Your Business More Profitable**
+
+https://www.datapine.com/blog/benefit-from-your-data-with-restaurant-analytics
+
+***Dining on Big Data: How Analytics is Reshaping the Restaurant Industry**
+
+https://www.michiganstateuniversityonline.com/resources/business-analytics/dining-on-big-data/
+
 ### 2. Data
-
-
 
 _A description of the data and how it will be used to solve the problem_
 
@@ -68,20 +78,6 @@ http://www.map-france.com/Lyon-69000/population-Lyon.html
 **World Population Review - Lyon**
 
 https://worldpopulationreview.com/world-cities/lyon-population/
-
-## 2. Information how to build a business case
-
-**How to Choose the Best Restaurant Location for Your Business**
-
-https://fitsmallbusiness.com/choose-a-restaurant-location/
-
-**How Restaurant Analytics Can Make Your Business More Profitable**
-
-https://www.datapine.com/blog/benefit-from-your-data-with-restaurant-analytics
-
-**Dining on Big Data: How Analytics is Reshaping the Restaurant Industry**
-
-https://www.michiganstateuniversityonline.com/resources/business-analytics/dining-on-big-data/
 
 ## 3. Data extracton, processing and reporting plan and tasks
 
