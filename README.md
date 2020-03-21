@@ -11,7 +11,7 @@ I prepare a detailed study that names districts and neigborhoods where the chain
 
 The coffee shops infuse nordic vegetarian cusine and pastries with nordic design cutlery. The design is presented in coffee shops. Customers can purchase nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes in online store.
 
-**customer profile**
+**The customer profile**
 + _often connected to another activity like shopping_
 + _Bar & Bistro: 25-45 age range, high disposable income, often takes place after work, often spontaneous, most customers drink alcohol, relaxed social ambiance is important, price point depends on the neighborhood._
 + women and their female friends, frequent fine dining establishments usually plan ahead, book reservations in advance, and want a high level of service. So forthsquare is an excellent place to study different options for locations.
