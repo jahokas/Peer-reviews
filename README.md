@@ -93,7 +93,7 @@ I replicated the analysis similar to the New York City dataset. I explored and c
 
 ------
 
-## Previous submitted and accepted assignments
+## Previous submitted and accepted peer-graded assignments
 
 ### Peer-graded Assignment: Segmenting and Clustering Neighborhoods in Toronto
 
