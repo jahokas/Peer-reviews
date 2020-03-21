@@ -1,11 +1,11 @@
 # Peer-graded Assignment Week 1: Capstone Project 
-## The Battle of Neighborhoods
+## The Battle of Neighborhoods in Lyon, France
 
 ### 1. Introduction - Business Problem Description
 
 In this assignment, I prepare a market research for a nordic coffee shop chain that plans to establish new franchises in France, potentially in Lyon. The coffee shop chain runs also a cutlery online store.
 
-I prepare a detailed study that names districts and neighbourhoods where to locate coffee shops in Lyon. The Foursquare is an excellent location data and technology platform to study different options for locations.
+I will prepare a detailed study that names districts and neighbourhoods where to locate coffee shops in Lyon. The Foursquare is an excellent location data and technology platform to study different options for locations.
 
 **The business concept**
 
