@@ -10,6 +10,7 @@ In a city of your choice, if someone is looking to open a restaurant, where woul
 + sell cups and tellers, mugs,jugs, serving dish, bowls, serving dishes, plates
 + nordic design
 + women and their female friends
++ online store
 + _often connected to another activity like shopping_
 ++ _Demographics – Information such as age, gender, relationship status, median income, religion, environment, and ethnicity
 ++ Psychographics – Consumer personality type and personal preferences
