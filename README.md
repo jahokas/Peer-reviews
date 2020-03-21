@@ -5,7 +5,7 @@
 
 In this assignment, I prepare a market research for a nordic coffee shop chain that plans to establish new francises in France, potentially in Lyon. The coffee shop chain runs also a cutlery online store.
 
-I prepare a detailed study that names districts and neigborhoods where the chain should locate their coffee shops in Lyon.
+I prepare a detailed study that names districts and neigborhoods where the chain should locate their coffee shops in Lyon. The Foursquare is an excellent location data and technology platform to study different options for locations.
 
 **The business concept**
 
