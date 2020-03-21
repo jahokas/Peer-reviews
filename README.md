@@ -6,7 +6,7 @@
 In this assignment, 
 
 In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
-get and an assigment from a nordic chain of cafes and cutlery online stores to make market research where to establish new francises in France
+get and an assigment from a nordic chain of cafes and cutlery online stores to make market research where to establish new francises in France, prepare a detailed study in districts and neigborhoods in the city
 
 **concept**
 + nordic style table-ware and pastries
