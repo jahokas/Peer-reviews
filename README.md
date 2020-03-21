@@ -3,13 +3,13 @@
 
 ### 1. Introduction - Business Problem Description
 
-In this assignment, I prepare a market research for a nordic coffee shop chain that plans to establish new francises in France, potentially in Lyon. The coffee shop chain runs also a cutlery online store.
+In this assignment, I prepare a market research for a nordic coffee shop chain that plans to establish new franchises in France, potentially in Lyon. The coffee shop chain runs also a cutlery online store.
 
-I prepare a detailed study that names districts and neigborhoods where to locate coffee shops in Lyon. The Foursquare is an excellent location data and technology platform to study different options for locations.
+I prepare a detailed study that names districts and neighbourhoods where to locate coffee shops in Lyon. The Foursquare is an excellent location data and technology platform to study different options for locations.
 
 **The business concept**
 
-The coffee shops infuse nordic vegetarian cusine and pastries with nordic design cutlery. The design table-ware is presented in coffee shops. Customers can purchase nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes in online store.
+The coffee shops infuse nordic vegetarian cuisine and pastries with nordic design cutlery. The design table-ware is presented in coffee shops. Customers can purchase nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes in online store.
 
 **The customer profile**
 
@@ -17,7 +17,7 @@ The most potential customers are in their 30-45 years, median income, single and
 
 **Requirements for preferable locations**
 
-Based on practical experiences of the management in the nordic coffee shop chain, the new francise should be established in a community accessible to at least 36,000 people in order to be profitable. The city should have minimum yearly population growth rate 0.8%. The cities with universities and diplomats are the most preferable.
+Based on practical experiences of the management in the nordic coffee shop chain, a new ranchise should be established in a community accessible to at least 36,000 people in order to be profitable. The city should have minimum yearly population growth rate 0.8%. The cities with universities and diplomats are the most preferable.
 
 City centres and pedestrian streets have been found good places to establish a new coffee shop. The city centre should have several complimentary cafes and restaurants, multiple eating options. Customers often seek out to window shop and find what they’re craving in the moment. However, very high number of cafes and restaurants may lead to fierce competition and bad service level what drives away customers and depletes good coffee shop culture in the area.
 
