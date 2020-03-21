@@ -3,10 +3,11 @@
 
 ### 1. Introduction - Business Problem Description
 
-In this assignment, 
+In this assignment, I prepare a market research for a nordic coffee shop chain that plans to establish new francises in France, potentially in Lyon. 
 
-In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
-get and an assigment from a nordic chain of cafes and cutlery online stores to make market research where to establish new francises in France, prepare a detailed study in districts and neigborhoods in the city
+The chain runs also a cutlery online store. The design is presented in coffee shops. Customers can purchace nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes.
+
+I prepare a detailed study that describe in which districts and neigborhoods the chain should locate their coffee shops in Lyon.
 
 **concept**
 + nordic style table-ware and pastries
