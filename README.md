@@ -7,12 +7,15 @@ In this assignment,
 
 In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
 
+**concept**
 + nordic style table-ware and pastries
 + sell cups and tellers, mugs, jugs, serving dish, bowls, serving dishes, plates
 + vegetarian food prepared from local raw materials
 + nordic design online store
 + women and their female friends, frequent fine dining establishments usually plan ahead, book reservations in advance, and want a high level of service. So forthsquare is an excellent place to study different options for locations.
 + online store
+
+**customer profile**
 + clearly positive birthrate, 30-45 years old female consumers, yearly population growth rate % minimum 0.8%
 + _often connected to another activity like shopping_
 + _Bar & Bistro: 25-45 age range, high disposable income, often takes place after work, often spontaneous, most customers drink alcohol, relaxed social ambiance is important, price point depends on the neighborhood._
