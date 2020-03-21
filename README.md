@@ -59,7 +59,8 @@ link: http://fr-city.census.okfn.org/place/lyon
 ### b. Location definition, exploration and cluster analysis
 
 **Foursquare**
-I will explore and cluster the neighborhoods in the city of Lyon. The work will be divided in the following areas:
+
+I will explore and cluster the neighborhoods in the city of Lyon. The work will be divided in the following topics:
 + the map of Lyon
 + location of venues around neigbourhoods
 + Explorion and analysis of neighborhoods
