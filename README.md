@@ -47,11 +47,13 @@ link: http://www.map-france.com/Lyon-69000/population-Lyon.html
 link: https://worldpopulationreview.com/world-cities/lyon-population/
 
 **The National Institute of Statistics and Economic Studies**
+
 The National Institute of Statistics and Economic Studies collects, analyses and disseminates information on the French economy and society
 
 link: https://www.insee.fr/fr/statistiques/2021173?geo=COM-69123
 
 **The Open Data Census**
+
 The Open Data Census of the municipalities of France assesses the openness of data in the main French cities. This collaborative project is coordinated by the Open Knowledge Foundation France.
 
 link: http://fr-city.census.okfn.org/place/lyon
