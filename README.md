@@ -13,7 +13,7 @@ The coffee shops infuse nordic vegetarian cusine and pastries with nordic design
 
 **The customer profile**
 
-The most potential customers are in theri 30-45 years, median income, single and married women who value relax social ambiance and something extra in service. Their coffee shop visits are often connected to another activity like shopping or training in sport centres. They are often willing to change their basic kitchen table-wares to design cutlery. They rely on friends’ recommendations
+The most potential customers are in their 30-45 years, median income, single and married women who value relax social ambiance and something extra in service. Their coffee shop visits are often connected to another activity like shopping or training in sport centres. They are often willing to change their basic kitchen table-wares to design cutlery. They rely on friends’ recommendations
 
 **Locations**
 + clear quata foreigners, maybe expats or diplomats
