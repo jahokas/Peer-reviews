@@ -3,17 +3,13 @@
 
 ### 1. Introduction - Business Problem Description
 
-In this assignment, I prepare a market research for a nordic coffee shop chain that plans to establish new francises in France, potentially in Lyon. 
-
-The coffee shop chain runs also a cutlery online store. The design is presented in coffee shops. Customers can purchace nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes.
+In this assignment, I prepare a market research for a nordic coffee shop chain that plans to establish new francises in France, potentially in Lyon. The coffee shop chain runs also a cutlery online store.
 
 I prepare a detailed study that names districts and neigborhoods where the chain should locate their coffee shops in Lyon.
 
-**concept**
-+ nordic style table-ware and pastries
-+ sell cups and tellers, mugs, jugs, serving dish, bowls, serving dishes, plates
-+ vegetarian food prepared from local raw materials
-+ nordic design online store
+**The business concept**
+
+The coffee shops infuse nordic vegetarian cusine and pastries with nordic design cutlery. The design is presented in coffee shops. Customers can purchase nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes in online store.
 
 **customer profile**
 + _often connected to another activity like shopping_
