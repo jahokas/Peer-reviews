@@ -19,7 +19,7 @@ The most potential customers are in their 30-45 years, median income, single and
 
 Based on practical experiences of the management in the nordic coffee shop chain, the new francise should be established in a community accessible to at least 36,000 people in order to be profitable. The city should have minimum yearly population growth rate 0.8%. The cities with universities and diplomats are the most preferable.
 
-City centres and pedestrian street have been found good places to establish a new coffee shop.
+City centres and pedestrian streets have been found good places to establish a new coffee shop.
 
 ### 2. Data
 
