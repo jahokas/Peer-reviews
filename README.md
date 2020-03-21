@@ -9,7 +9,7 @@ I prepare a detailed study that names districts and neigborhoods where to locate
 
 **The business concept**
 
-The coffee shops infuse nordic vegetarian cusine and pastries with nordic design cutlery. The design is presented in coffee shops. Customers can purchase nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes in online store.
+The coffee shops infuse nordic vegetarian cusine and pastries with nordic design cutlery. The design table-ware is presented in coffee shops. Customers can purchase nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes in online store.
 
 **The customer profile**
 
