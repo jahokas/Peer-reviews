@@ -15,7 +15,7 @@ The coffee shops infuse nordic vegetarian cusine and pastries with nordic design
 
 The most potential customers are in their 30-45 years, median income, single and married women who value relax social ambiance and something extra in service. Their coffee shop visits are often connected to another activity like shopping or training in sport centres. They are often willing to change their basic kitchen table-wares to design cutlery. They rely on friends’ recommendations.
 
-**Requirements for locations**
+**Requirements for preferable locations**
 
 Based on practical experiences of the management in the nordic coffee shop chains, the new francise should be located in a community accessible to at least 36,000 people in order to be profitable. The city should have minimum yearly population growth rate 0.8%. The cities with universities and diplomats are the most preferable.
 
