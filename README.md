@@ -1,7 +1,7 @@
 # Peer-graded Assignment Week 1: Capstone Project 
-## The Battle of Neighborhoods in Lyon, France
+# The Battle of Neighborhoods in Lyon, France
 
-### 1. Introduction - Business Problem Description
+## 1. Introduction - Business Problem Description
 
 In this assignment, I prepare a market research for a nordic coffee shop chain that plans to establish new franchises in France, potentially in Lyon. The coffee shop chain runs also a cutlery online store.
 
@@ -21,15 +21,15 @@ Based on practical experiences of the management in the nordic coffee shop chain
 
 City centres and pedestrian streets have been found good places to establish a new coffee shop. The city centre should have several complimentary cafes and restaurants, multiple eating options. Customers often seek out to window shop and find what they’re craving in the moment. However, very high number of cafes and restaurants may lead to fierce competition and bad service level what drives away customers and depletes good coffee shop culture in the area.
 
-### 2. Data
+## 2. Data
 
 Here, I describe the data that I will be using to solve the business problem prented in the first chapter. The Foursquare location data and technology plays a major role in the assignemnt. In addition, I will provide statistical facts that help to assess if the location meet requirements of the business concept pertaining to demographical and market growth rate.
 
 The below I list data sources, their data elements and links to the data sources.
 
-#### Population statistics and demographical data**
+### Population statistics and demographical data
 
-**Map of France**
+**a.Map of France**
 
 + Historical data of the population
 + Population distribution by sexe
@@ -42,23 +42,23 @@ The below I list data sources, their data elements and links to the data sources
 
 link: http://www.map-france.com/Lyon-69000/population-Lyon.html
 
-**World of population review**
+**b.World of population review**
 
 link: https://worldpopulationreview.com/world-cities/lyon-population/
 
-**The National Institute of Statistics and Economic Studies**
+**c.The National Institute of Statistics and Economic Studies**
 The National Institute of Statistics and Economic Studies collects, analyses and disseminates information on the French economy and society
 
 link: https://www.insee.fr/fr/statistiques/2021173?geo=COM-69123
 
-**The Open Data Census**
+**Td.he Open Data Census**
 The Open Data Census of the municipalities of France assesses the openness of data in the main French cities. This collaborative project is coordinated by the Open Knowledge Foundation France.
 
 link: http://fr-city.census.okfn.org/place/lyon
 
 **Location, exploration and analysis**
 
-Foursquare
+**Foursquare**
 I will explore and cluster the neighborhoods in the city of Lyon. The work was separated in the following subchapters:
 + the map of Lyon
 + location of venues around neigbourhoods
