@@ -82,6 +82,7 @@ http://www.map-france.com/Lyon-69000/population-Lyon.html
 https://worldpopulationreview.com/world-cities/lyon-population/
 
 **Foursquare**
+
 I replicated the analysis similar to the New York City dataset. I explored and clustered the neighborhoods in the city of Lyon. The work was separated in the following subchapters:
 + Restricting the analysis into neighborhoods with name 'Lyon'
 + Presenting the map of Lyon
