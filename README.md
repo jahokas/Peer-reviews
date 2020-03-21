@@ -51,8 +51,6 @@ _Describe the data that you will be using to solve the problem or execute your i
 
 _This submission will eventually become your Data section in your final report. So I recommend that you push the report (having your Data section) to your Github repository and submit a link to it._
 
------
-
 I have explored, segmented, and clustered the neighborhoods in the city of Lyon. Feel free to explore the notebook by adding your Fourtsquare credentials you can perform the same analysis (CLIENT_ID and CLIENT_SECRET).
 
 You can found the analysis also in html-form in the repository.
