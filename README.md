@@ -15,7 +15,7 @@ The coffee shops infuse nordic vegetarian cusine and pastries with nordic design
 
 The most potential customers are in their 30-45 years, median income, single and married women who value relax social ambiance and something extra in service. Their coffee shop visits are often connected to another activity like shopping or training in sport centres. They are often willing to change their basic kitchen table-wares to design cutlery. They rely on friends’ recommendations.
 
-**Locations**
+**Requirements for locations**
 + clear quata foreigners, maybe expats or diplomats
 + clearly positive birthrate, 30-45 years old female consumers, yearly population growth rate % minimum 0.8%
 + A rule of thumb is that your restaurant should be located in a community accessible to at least 50,000 people, as noted by NerdWallet.
