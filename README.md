@@ -25,6 +25,7 @@ Clearly the Foursquare location data is an excellent platform to solve or execut
 **Locations**
 + clear quata foreigners, maybe expats or diplomats
 + clearly positive birthrate, 30-45 years old female consumers, yearly population growth rate % minimum 0.8%
++ A rule of thumb is that your restaurant should be located in a community accessible to at least 50,000 people, as noted by NerdWallet.
 
 _A description of the problem and a discussion of the background_
 
