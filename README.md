@@ -1,4 +1,5 @@
-# Peer-graded Assignment Week 1: Capstone Project - The Battle of Neighborhoods
+# Peer-graded Assignment Week 1: Capstone Project 
+## The Battle of Neighborhoods
 
 ### 1. Introduction - Business Problem Description
 
