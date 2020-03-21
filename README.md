@@ -23,48 +23,39 @@ City centres and pedestrian streets have been found good places to establish a n
 
 ### 2. Data
 
-_A description of the data and how it will be used to solve the problem_
+Here, I describe the data that I will be using to solve the business problem prented in the first chapter. The Foursquare location data and technology plays a major role in the assignemnt. In addition, I will provide statistical facts that help to assess if the location meet requirements of the business concept pertaining to demographical and market growth rate.
 
-_Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data._
+The below I list data sources, their data elements and links to the data sources.
 
-_This submission will eventually become your Data section in your final report. So I recommend that you push the report (having your Data section) to your Github repository and submit a link to it._
-
-### Statistics
+**Population statistics and demographical data**
++ Historical data of the population
++ Population distribution by sexe
++ Population
++ births and deaths
++ Distribution of the population by age
++ Men population distribution by age
++ Women population distribution by age
++ Districts and their latitudes and longitudes
+link 1: http://www.map-france.com/Lyon-69000/population-Lyon.html
+link 2: https://worldpopulationreview.com/world-cities/lyon-population/
 
 **The National Institute of Statistics and Economic Studies**
 The National Institute of Statistics and Economic Studies collects, analyses and disseminates information on the French economy and society
-https://www.insee.fr/fr/statistiques/2021173?geo=COM-69123
+link: https://www.insee.fr/fr/statistiques/2021173?geo=COM-69123
 
 **The Open Data Census**
 The Open Data Census of the municipalities of France assesses the openness of data in the main French cities. This collaborative project is coordinated by the Open Knowledge Foundation France.
-http://fr-city.census.okfn.org/place/lyon
-
-**Lyon population statistics**
-+ Historical data of the population of Lyon from 1968 to 2007
-+ Population distribution of Lyon by sexe
-+ Population of Lyon from 1968 to 2007
-+ Lyon : births and deaths from 1999 to 2008
-+ Distribution of the population of Lyon by age in 2007
-+ Men population distribution of Lyon by age in 2007
-+ Women population distribution of Lyon by age in 2007
-+ Districts and their latitudes and longitudes
-
-http://www.map-france.com/Lyon-69000/population-Lyon.html
+link: http://fr-city.census.okfn.org/place/lyon
 
 **World Population Review - Lyon**
-
-https://worldpopulationreview.com/world-cities/lyon-population/
+link: https://worldpopulationreview.com/world-cities/lyon-population/
 
 **Foursquare**
-
-I replicated the analysis similar to the New York City dataset. I explored and clustered the neighborhoods in the city of Lyon. The work was separated in the following subchapters:
-+ Restricting the analysis into neighborhoods with name 'Lyon'
-+ Presenting the map of Lyon
-+ The Foursquare part - locate venues around neigbourhoods
-+ Explore neighborhoods in Lyon
-+ Analyzing each neighborhood by neighborhood
-+ Clustering the neighborhoods
-+ Examining clusters and giving them names
+I will explore and cluster the neighborhoods in the city of Lyon. The work was separated in the following subchapters:
++ the map of Lyon
++ location of venues around neigbourhoods
++ Explorion and analysis of neighborhoods
++ Clustering the neighborhoods and examining the cluster
 
 ### 3. References
 
