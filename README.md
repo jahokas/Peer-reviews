@@ -29,9 +29,9 @@ The below I list data sources, their data elements and links to the data sources
 
 ### a. Population statistics and demographical data
 
-**Map of France**
+**Map-of-France**
 
-The following data will be loated and extracted:
+The following data will be located and extracted in the 'Map-of-France' data source:
 + Historical data of the population
 + Population distribution by sexe
 + Population
