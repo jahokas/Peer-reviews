@@ -29,7 +29,7 @@ The below I list data sources, their data elements and links to the data sources
 
 ### Population statistics and demographical data
 
-**a.Map of France**
+**a. Map of France**
 
 + Historical data of the population
 + Population distribution by sexe
@@ -42,21 +42,21 @@ The below I list data sources, their data elements and links to the data sources
 
 link: http://www.map-france.com/Lyon-69000/population-Lyon.html
 
-**b.World of population review**
+**b. World of population review**
 
 link: https://worldpopulationreview.com/world-cities/lyon-population/
 
-**c.The National Institute of Statistics and Economic Studies**
+**c. The National Institute of Statistics and Economic Studies**
 The National Institute of Statistics and Economic Studies collects, analyses and disseminates information on the French economy and society
 
 link: https://www.insee.fr/fr/statistiques/2021173?geo=COM-69123
 
-**Td.he Open Data Census**
+**d. The Open Data Census**
 The Open Data Census of the municipalities of France assesses the openness of data in the main French cities. This collaborative project is coordinated by the Open Knowledge Foundation France.
 
 link: http://fr-city.census.okfn.org/place/lyon
 
-**Location, exploration and analysis**
+**Location definition, exploration and cluster analysis**
 
 **Foursquare**
 I will explore and cluster the neighborhoods in the city of Lyon. The work was separated in the following subchapters:
