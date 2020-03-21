@@ -53,7 +53,7 @@ I have explored, segmented, and clustered the neighborhoods in the city of Lyon.
 
 You can found the analysis also in html-form in the repository.
 
-## 1. Statistics
+### Statistics
 
 **The National Institute of Statistics and Economic Studies**
 The National Institute of Statistics and Economic Studies collects, analyses and disseminates information on the French economy and society
