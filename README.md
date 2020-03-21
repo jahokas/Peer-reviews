@@ -65,7 +65,7 @@ link: http://fr-city.census.okfn.org/place/lyon
 
 **Foursquare**
 
-I will Foursquare data sets to explore and cluster the neighborhoods in the city of Lyon. The work will be divided in the following topics:
+I will use Foursquare data sets to explore and cluster the neighborhoods in the city of Lyon. The work will be divided in the following prelimenary topics:
 + the map of Lyon
 + location of venues around neigbourhoods
 + Explorion and analysis of neighborhoods
