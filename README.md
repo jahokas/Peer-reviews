@@ -83,24 +83,7 @@ http://www.map-france.com/Lyon-69000/population-Lyon.html
 
 https://worldpopulationreview.com/world-cities/lyon-population/
 
-## 3. Data extracton, processing and reporting plan and tasks
-
-**Task 1: Creating the preliminary dataframe and printing the number of rows**
-
-I wrangled the Lyon neighborhood data, cleaned it, read it into a pandas dataframe, and finally presented it in a structured form like the New York dataset.
-
-The link to the source data can be found here: http://www.map-france.com/department-Rhone/.
-
-The dataframe is presented in the end of the chapter 1.
-
-**Task 2: Adding latitudes and longitudes of neighborhoods in the dataframe**
-
-In order to utilize the Foursquare location data, I added the latitude and the longitude coordinates of each neighborhood.
-
-The new dataframe is presented in the end of the chapter 2.
-
-**Task 3: The replication of the analysis with Lyon data set**
-
+**Foursquare**
 I replicated the analysis similar to the New York City dataset. I explored and clustered the neighborhoods in the city of Lyon. The work was separated in the following subchapters:
 + Restricting the analysis into neighborhoods with name 'Lyon'
 + Presenting the map of Lyon
@@ -110,21 +93,7 @@ I replicated the analysis similar to the New York City dataset. I explored and c
 + Clustering the neighborhoods
 + Examining clusters and giving them names
 
-I formed 6 clusters and gave them names describing the areas:
-+ Cluster 1 - Coffee Shops and Delicates (Red label)
-+ Cluster 2 - Bermunada Triangle (Purple label)
-+ Cluster 3 - Locks and Latches (Petrol Blue label)
-+ Cluster 4 - Boutiques (Darker Green label)
-+ Cluster 5 - Parks (Light Green label)
-+ Cluster 6 - Health and Beauty (Orange label)
-
-The colour label is presented in the map. The clusters you can find in the end of the document.
-
-**Table of contents**
-
-1. Creating the preliminary dataframe and printing the number of row
-2. Adding latitudes and longitudes of neighborhoods in the dataframe
-3. The replication of the analysis with Lyon data set
+------
 
 ## Previous submitted and accepted assignments
 
