@@ -10,15 +10,13 @@ In a city of your choice, if someone is looking to open a restaurant, where woul
 + nordic style table-ware and pastries
 + sell cups and tellers, mugs, jugs, serving dish, bowls, serving dishes, plates
 + vegetarian food prepared from local raw materials
-+ nordic design
++ nordic design online store
 + women and their female friends, frequent fine dining establishments usually plan ahead, book reservations in advance, and want a high level of service. So forthsquare is an excellent place to study different options for locations.
 + online store
++ clearly positive birthrate, 30-45 years old female consumers, yearly population growth rate % minimum 0.8%
 + _often connected to another activity like shopping_
-++ _Demographics – Information such as age, gender, relationship status, median income, religion, environment, and ethnicity
-++ Psychographics – Consumer personality type and personal preferences
-++ Behavior – Similar behavior, such as likes and dislikes, hobbies, and extracurricular activities
-+ _It comes down to a combination of restaurant concept and ideal customer. If you can define your restaurant type and identify your target demographic and its most populated areas, you’ll be well on your way to choosing a restaurant location that sets your business up for success._
 + _Bar & Bistro: 25-45 age range, high disposable income, often takes place after work, often spontaneous, most customers drink alcohol, relaxed social ambiance is important, price point depends on the neighborhood._
++ clear quata foreigners, maybe expats or diplomats
 
 _A description of the problem and a discussion of the background_
 
