@@ -11,7 +11,7 @@ In a city of your choice, if someone is looking to open a restaurant, where woul
 + sell cups and tellers, mugs, jugs, serving dish, bowls, serving dishes, plates
 + vegetarian food prepared from local raw materials
 + nordic design
-+ women and their female friends
++ women and their female friends, frequent fine dining establishments usually plan ahead, book reservations in advance, and want a high level of service. So forthsquare is an excellent place to study different options for locations.
 + online store
 + _often connected to another activity like shopping_
 ++ _Demographics – Information such as age, gender, relationship status, median income, religion, environment, and ethnicity
