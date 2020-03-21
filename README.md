@@ -7,7 +7,8 @@ In this assignment,
 In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
 
 + nordic style table-ware and pastries
-+ sell cups and tellers
++ sell cups and tellers, mugs,jugs, serving dish, bowls, serving dishes, plates
++ nordic design
 + women and their female friends
 + _often connected to another activity like shopping_
 ++ _Demographics – Information such as age, gender, relationship status, median income, religion, environment, and ethnicity
