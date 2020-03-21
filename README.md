@@ -12,12 +12,8 @@ I prepare a detailed study that names districts and neigborhoods where to locate
 The coffee shops infuse nordic vegetarian cusine and pastries with nordic design cutlery. The design is presented in coffee shops. Customers can purchase nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes in online store.
 
 **The customer profile**
-+ _often connected to another activity like shopping_
-+ _Bar & Bistro: 25-45 age range, high disposable income, often takes place after work, often spontaneous, most customers drink alcohol, relaxed social ambiance is important, price point depends on the neighborhood._
-+ women and their female friends, frequent fine dining establishments usually plan ahead, book reservations in advance, and want a high level of service. So forthsquare is an excellent place to study different options for locations.
-+ Early 40s, married, well-educated, upper-middle class, plans ahead, relies on friends’ recommendations, median income of $80k annually, married, two children, family-oriented
 
-Clearly the Foursquare location data is an excellent platform to solve or execute.
+The most potential customers are in theri 30-45 years, median income, single and married women who value relax social ambiance and something extra in service. Their coffee shop visits are often connected to another activity like shopping or training in sport centres. They are often willing to change their basic kitchen table-wares to design cutlery. They rely on friends’ recommendations
 
 **Locations**
 + clear quata foreigners, maybe expats or diplomats
