@@ -27,7 +27,10 @@ Here, I describe the data that I will be using to solve the business problem pre
 
 The below I list data sources, their data elements and links to the data sources.
 
-**Population statistics and demographical data**
+#### Population statistics and demographical data**
+
+**Map of France**
+
 + Historical data of the population
 + Population distribution by sexe
 + Population
@@ -37,22 +40,21 @@ The below I list data sources, their data elements and links to the data sources
 + Women population distribution by age
 + Districts and their latitudes and longitudes
 
-link 1: http://www.map-france.com/Lyon-69000/population-Lyon.html
-link 2: https://worldpopulationreview.com/world-cities/lyon-population/
+link: http://www.map-france.com/Lyon-69000/population-Lyon.html
 
-The National Institute of Statistics and Economic Studies
+**World of population review**
+
+link: https://worldpopulationreview.com/world-cities/lyon-population/
+
+**The National Institute of Statistics and Economic Studies**
 The National Institute of Statistics and Economic Studies collects, analyses and disseminates information on the French economy and society
 
 link: https://www.insee.fr/fr/statistiques/2021173?geo=COM-69123
 
-The Open Data Census
+**The Open Data Census**
 The Open Data Census of the municipalities of France assesses the openness of data in the main French cities. This collaborative project is coordinated by the Open Knowledge Foundation France.
 
 link: http://fr-city.census.okfn.org/place/lyon
-
-World Population Review
-
-link: https://worldpopulationreview.com/world-cities/lyon-population/
 
 **Location, exploration and analysis**
 
