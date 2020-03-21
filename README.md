@@ -5,9 +5,9 @@
 
 In this assignment, I prepare a market research for a nordic coffee shop chain that plans to establish new francises in France, potentially in Lyon. 
 
-The chain runs also a cutlery online store. The design is presented in coffee shops. Customers can purchace nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes.
+The coffee shop chain runs also a cutlery online store. The design is presented in coffee shops. Customers can purchace nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes.
 
-I prepare a detailed study that describe in which districts and neigborhoods the chain should locate their coffee shops in Lyon.
+I prepare a detailed study that names districts and neigborhoods where the chain should locate their coffee shops in Lyon.
 
 **concept**
 + nordic style table-ware and pastries
@@ -27,11 +27,6 @@ Clearly the Foursquare location data is an excellent platform to solve or execut
 + clear quata foreigners, maybe expats or diplomats
 + clearly positive birthrate, 30-45 years old female consumers, yearly population growth rate % minimum 0.8%
 + A rule of thumb is that your restaurant should be located in a community accessible to at least 50,000 people, as noted by NerdWallet.
-
-_A description of the problem and a discussion of the background_
-
-_Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem._
-
 
 ***How to Choose the Best Restaurant Location for Your Business**
 
