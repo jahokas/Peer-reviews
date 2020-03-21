@@ -48,7 +48,6 @@ _This submission will eventually become your Data section in your final report. 
 
 -----
 
-
 I have explored, segmented, and clustered the neighborhoods in the city of Lyon. Feel free to explore the notebook by adding your Fourtsquare credentials you can perform the same analysis (CLIENT_ID and CLIENT_SECRET).
 
 You can found the analysis also in html-form in the repository.
