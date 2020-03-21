@@ -72,14 +72,14 @@ I replicated the analysis similar to the New York City dataset. I explored and c
 
 ### 3. References
 
-***How to Choose the Best Restaurant Location for Your Business**
-https://fitsmallbusiness.com/choose-a-restaurant-location/
+**'How to Choose the Best Restaurant Location for Your Business'**
+(https://fitsmallbusiness.com/choose-a-restaurant-location/)
 
-***How Restaurant Analytics Can Make Your Business More Profitable**
-https://www.datapine.com/blog/benefit-from-your-data-with-restaurant-analytics
+**'How Restaurant Analytics Can Make Your Business More Profitable'**
+(https://www.datapine.com/blog/benefit-from-your-data-with-restaurant-analytics)
 
-***Dining on Big Data: How Analytics is Reshaping the Restaurant Industry**
-https://www.michiganstateuniversityonline.com/resources/business-analytics/dining-on-big-data/
+**'Dining on Big Data: How Analytics is Reshaping the Restaurant Industry'**
+(https://www.michiganstateuniversityonline.com/resources/business-analytics/dining-on-big-data/)
 
 ------
 
