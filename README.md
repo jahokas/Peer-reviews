@@ -6,6 +6,7 @@
 In this assignment, 
 
 In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
+get and an assigment from a nordic chain of cafes and cutlery online stores to make market research where to establish new francises in France
 
 **concept**
 + nordic style table-ware and pastries
@@ -14,20 +15,21 @@ In a city of your choice, if someone is looking to open a restaurant, where woul
 + nordic design online store
 
 **customer profile**
-+ clearly positive birthrate, 30-45 years old female consumers, yearly population growth rate % minimum 0.8%
 + _often connected to another activity like shopping_
 + _Bar & Bistro: 25-45 age range, high disposable income, often takes place after work, often spontaneous, most customers drink alcohol, relaxed social ambiance is important, price point depends on the neighborhood._
 + women and their female friends, frequent fine dining establishments usually plan ahead, book reservations in advance, and want a high level of service. So forthsquare is an excellent place to study different options for locations.
 + Early 40s, married, well-educated, upper-middle class, plans ahead, relies on friends’ recommendations, median income of $80k annually, married, two children, family-oriented
 
+Clearly the Foursquare location data is an excellent platform to solve or execute.
+
 **Locations**
 + clear quata foreigners, maybe expats or diplomats
++ clearly positive birthrate, 30-45 years old female consumers, yearly population growth rate % minimum 0.8%
 
 _A description of the problem and a discussion of the background_
 
 _Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem._
 
-_This submission will eventually become your Introduction/Business Problem section in your final report. So I recommend that you push the report (having your Introduction/Business Problem section only for now) to your Github repository and submit a link to it._
 
 ***How to Choose the Best Restaurant Location for Your Business**
 
