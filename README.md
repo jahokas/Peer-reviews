@@ -1,5 +1,14 @@
-# Peer-graded Assignment Week 1: Capstone Project 
-# The Battle of Neighborhoods in Lyon, France
+# Peer-graded Assignment Week 2: Capstone Project 
+# The Battle of Neighborhoods
+
+## Table of content
+1. Introduction - Business Problem Description
+2. Data
+3. Methotology
+4. Results
+5. Discussion
+6. Conclusions
+7. References
 
 ## 1. Introduction - Business Problem Description
 
@@ -43,7 +52,7 @@ The Foursquare location data and technology is used to test two last criteria. F
 
 In the Reference section I provide a full list of data sources, their data elements and links to the data sources. In addition, the section lists literature that is used to create business assumption presented in the previous chapter.
 
-## Methotology
+## 3. Methotology
 
 The methodology section describes step by step how the analysis is conducted. 
  
@@ -61,7 +70,7 @@ Sixth, K-Means method is used to cluster district in 8 categories. The categorie
 
 Finally, the results are presented in a table and a map with clustering labels is printed.
 
-## Results
+## 4. Results
 
 Lyon has ca. 500 000 inhabitants and 53% of them are women. The population is growing steadily ca. 0,8% in a year. New people are born much faster than dying. In 2008 Lyon new babies were 7 339 births and less than half of births,  3 324 inhabitants died. Women in the age group of  30-45 years is approximately 20%. Younger women are also potential customers and the age group of 15-29 forms 29% of all women in Lyon.
 
@@ -79,14 +88,14 @@ Cluster 5 - Playgrounds and young adults - Light Green - 1 districts
 Cluster 6 - Medical centre and pharmacy - Yellow - 1 districts
 Cluster 7 - Amphitheater and outside hanging - Orange - 1 districts
 
-## Discussion
+## 5. Discussion
 
 
-## Conclusions
+## 6. Conclusions
 
 
 
-## References
+## 7. References
 
 Literature
 * 'How to Choose the Best Restaurant Location for Your Business' (https://fitsmallbusiness.com/choose-a-restaurant-location/)
