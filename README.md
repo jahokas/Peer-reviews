@@ -3,85 +3,102 @@
 
 ## 1. Introduction - Business Problem Description
 
-In this assignment, I prepare a market research for a nordic coffee shop chain that plans to establish new franchises in France, potentially in Lyon. The coffee shop chain runs also a cutlery online store.
+In this article, I prepare a study for a Nordic coffeehouse chain that plans to establish new franchises in Lyon. Lyon is a vibrant city in Southern France with 0,8% yearly population growth rate.  The detailed study names districts that could be optimal places to establish new coffee shops in Lyon. The Foursquare is an excellent location data and technology platform to study different options for locations. Next I will describe a business concept, requirements and assumptions for profitable business. Only districts that meet these requirements can be selected for potential locations for coffeeshops.
 
-I will prepare a detailed study that names districts and neighbourhoods where to locate coffee shops in Lyon. The Foursquare is an excellent location data and technology platform to study different options for locations.
+**The business concepts**
+The coffee shops infuse warm and cold drinks prepared from Nordic berries, vegetarian light cuisine such as pastries, sandwiches and light snacks served on Nordic design cutlery. The design tableware is presented in coffee shops. Customers can purchase Nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes in online store.
 
-**The business concept**
+**Requirements and business assumptions**
+It is very essential that franchise entrepreneurs can make profitable business preferable already during the first year. Consequently, the business concept owner helps to locate potential districts and give transparent metrics and assumption for profitable business. Here I describe three essential areas:
 
-The coffee shops infuse nordic vegetarian cuisine and pastries with nordic design cutlery. The design table-ware is presented in coffee shops. Customers can purchase nordic tableware such as cups, mugs, jugs, serving dish, bowls and serving dishes in online store.
++ Sales assumptions
++ Location selection criteria
++ Customer profiles
 
-**The customer profile**
+Sales assumptions: 
+The space for customer area is planned to be ca. 150m2 in coffeehouses. If each customer needs space of 3 m2, coffeehouses can serve same time 50 people. With 6 table rounds, the coffeehouse can serve 300 customers daily. In case 10% of local people find the coffeeshop daily to their place to visit, the district should have 3000 potential local customers. 
+ 
+Transit hubs such as train and tram stations are expected to bring occasional customers. 
+Traditional coffeehouse products are expected to bring sales of 1800 euros and tableware online sale 1200 euros daily. Consequently, the total daily revenue were 3000 euros daily. The coffeeshop should be profitable also outside tourist seasons.
+ 
+Location selection criteria: 
+Public transportation hubs and near pedestrian streets have been found good places to establish a new coffee shop. On pedestrian streets people often seek out to window shop and find what they’re craving in the moment. The location should have several complimentary cafes and restaurants, multiple eating options, but not a one that has the same business concept. 
 
+Complimentary venues are other restaurants, cafés, steakhouses, breakfast venues, noodle shops, bistros, burger and taco restaurants. However, very high number of cafes and restaurants may lead to fierce competition and bad service level what drives away customers and depletes good coffee shop culture in the area. 
+
+Customer profiles: 
 The most potential customers are in their 30-45 years, median income, single and married women who value relax social ambiance and something extra in service. Their coffee shop visits are often connected to another activity like shopping or training in sport centres. They are often willing to change their basic kitchen table-wares to design cutlery. They rely on friends’ recommendations.
-
-**Requirements for preferable locations**
-
-Based on practical experiences of the management in the nordic coffee shop chain, a new ranchise should be established in a community accessible to at least 36,000 people in order to be profitable. The city should have minimum yearly population growth rate 0.8%. The cities with universities and diplomats are the most preferable.
-
-City centres and pedestrian streets have been found good places to establish a new coffee shop. The city centre should have several complimentary cafes and restaurants, multiple eating options. Customers often seek out to window shop and find what they’re craving in the moment. However, very high number of cafes and restaurants may lead to fierce competition and bad service level what drives away customers and depletes good coffee shop culture in the area.
 
 ## 2. Data
 
-Here, I describe the data that I will be using to solve the business problem presented in the first chapter. The Foursquare location data and technology plays a major role in the assignment. In addition, I will provide statistical facts that help to assess if the location meet requirements of the business concept pertaining to demographical and market growth rate.
+Data is acquired to test if the district meets the following criteria:
++ Growth rate of residents is increasing
++ Number of female potential customers in the age of 30-45 years is substantial - 20% of all women residents
++ number of customers divided by the number of total numbers of complimentary restaurants is minimum 3000
++ Local venues build an optimal profile with transit hub and attractive complimentary services
 
-The below I list data sources, their data elements and links to the data sources.
+The primary date source to test first two criteria is the website 'Map-of-France’. 'Map-of-France’ has data sets such as historical data of the population, population distribution by sex, births and deaths, distribution of the population by age and women population distribution by age. The World of Population Review data sets will be used as an additional data source to get new data and check demographical data from other data sources. In addition, the National Institute of Statistics and Economic Studies collects, analyses and disseminates information on the French economy and society.
 
-### a. Population statistics and demographical data
+The Foursquare location data and technology is used to test two last criteria. Foursquare provides excellent data that enables us to explore and cluster venues in districts of the city of Lyon.
 
-**Map-of-France**
+In the Reference section I provide a full list of data sources, their data elements and links to the data sources. In addition, the section lists literature that is used to create business assumption presented in the previous chapter.
 
-The following data will be located and extracted in the 'Map-of-France' data source:
-+ Historical data of the population
-+ Population distribution by sex
-+ births and deaths
-+ Distribution of the population by age
-+ Men population distribution by age
-+ Women population distribution by age
-+ Districts and their latitudes and longitudes
+## Methotology
 
-link: http://www.map-france.com/Lyon-69000/population-Lyon.html
+The methodology section describes step by step how the analysis is conducted. 
+ 
+First, we check if demographic data meets the criteria by comparing the assumption and statistical facts presented in selected data sources. 
+ 
+Second, city of Lyon is divided in 22 districts and population data per district is collected. The districts are Lyon 1 - Place des Terreaux, Lyon 2 - Place Bellecour, Lyon 3 - La Part-Dieu, Lyon 4 - Croix-Rousse, Lyon 5 - Old Lyon, Lyon 6 - Parc de la Tete dOr’, Lyon 7 - Rhone, Lyon 8 - Cinema, Lyon 9 - Vaise, Tassin-la-Demi-Lune, La Mulatière, Villeurbanne, Caluire-et-Cuire, Sainte-Foy-lès-Lyon, Saint-Cyr-au-Mont-dOr, Écully’, Oullins, Saint-Fons, Vaulx-en-Velin, Bron, Meyzieu and Rillieux-la-Pape.
+ 
+Third, all districts are located by using latitude and longitude values and a map is produced.
+ 
+Forth, Foursquare service is used to retrieve data of venues within a radius of 500 meters in district centre. The data element ’Venue category’ is used to identify complimentary restaurants and their number of occurrences
 
-**World of population Review**
+Fifth, 10 the most common venue categories per a district is identified and sorted.
 
-The World of Population Review data sets will be used as an additional data source to get new data and check demographical  data from other data sources.
+Sixth, K-Means method is used to cluster district in 8 categories. The categories are labelled to describe the characteristics of the district.
 
-link: https://worldpopulationreview.com/world-cities/lyon-population/
+Finally, the results are presented in a table and a map with clustering labels is printed.
 
-**The National Institute of Statistics and Economic Studies**
+## Results
 
-The National Institute of Statistics and Economic Studies collects, analyses and disseminates information on the French economy and society
+Lyon has ca. 500 000 inhabitants and 53% of them are women. The population is growing steadily ca. 0,8% in a year. New people are born much faster than dying. In 2008 Lyon new babies were 7 339 births and less than half of births,  3 324 inhabitants died. Women in the age group of  30-45 years is approximately 20%. Younger women are also potential customers and the age group of 15-29 forms 29% of all women in Lyon.
 
-link: https://www.insee.fr/fr/statistiques/2021173?geo=COM-69123
+15 districts had less than 10 complimentary restaurants and services. They were dropped from the list of potential locations for new coffeeshops.
 
-**The Open Data Census**
+Four districts had less than 3000 inhabitants per total number of complimentary venues. These were Lyon 1 - Place des Terreaux, Lyon 2 - Place Bellecour, Lyon 4 - Croix-Rousse, Lyon 5 - Old Lyon and Lyon 6 - Parc de la Tete dOr’. Especially, the tourist location Lyon 1 and Lyon 2 have extreme fierce competition. Place Bellecour district have only 564 restaurants per an inhabitant.
 
-The Open Data Census of the municipalities of France assesses the openness of data in the main French cities. 
+Giving the following names to the clusters
+Cluster 0 - International restaurants and shops - Red - 1 districts
+Cluster 1 - French restaurants and shopping streets - Purple - 14 districts
+Cluster 2 - Bankers, boutiques and restaurants - Navy Blue - 1 districts
+Cluster 3 - Grocery shops and small food shops - Petrol Blue - 1 districts
+Cluster 4 - Hotels, fancy dining and jewellery - Dark Green - 2 districts
+Cluster 5 - Playgrounds and young adults - Light Green - 1 districts
+Cluster 6 - Medical centre and pharmacy - Yellow - 1 districts
+Cluster 7 - Amphitheater and outside hanging - Orange - 1 districts
 
-link: http://fr-city.census.okfn.org/place/lyon
+## Discussion
 
-### b. Location definition, exploration and cluster analysis
 
-**Foursquare**
+## Conclusions
 
-I will use Foursquare data sets to explore and cluster the neighbourhoods in the city of Lyon. The work will be divided in the following preliminary topics:
-+ the map of Lyon
-+ location of venues around neighbourhoods
-+ Exploration and analysis of neighbourhoods
-+ Clustering the neighbourhoods and examining the cluster
 
-link: https://foursquare.com
 
-### 3. References
+## References
 
-**'How to Choose the Best Restaurant Location for Your Business'**
-(https://fitsmallbusiness.com/choose-a-restaurant-location/)
+Literature
+* 'How to Choose the Best Restaurant Location for Your Business' (https://fitsmallbusiness.com/choose-a-restaurant-location/)
+* 'How Restaurant Analytics Can Make Your Business More Profitable' (https://www.datapine.com/blog/benefit-from-your-data-with-restaurant-analytics)
+* 'Dining on Big Data: How Analytics is Reshaping the Restaurant Industry'(https://www.michiganstateuniversityonline.com/resources/business-analytics/dining-on-big-data/)
 
-**'How Restaurant Analytics Can Make Your Business More Profitable'**
-(https://www.datapine.com/blog/benefit-from-your-data-with-restaurant-analytics)
-
-**'Dining on Big Data: How Analytics is Reshaping the Restaurant Industry'**
-(https://www.michiganstateuniversityonline.com/resources/business-analytics/dining-on-big-data/)
+Full data source list
+* Map-of-France (link: http://www.map-france.com/Lyon-69000/population-Lyon.html)
+* World of population Review (link: https://worldpopulationreview.com/world-cities/lyon-population/)
+* The National Institute of Statistics and Economic Studies (link: https://www.insee.fr/fr/statistiques/2021173?geo=COM-69123)
+* The Open Data Census (link: http://fr-city.census.okfn.org/place/lyon)
+* Foursquare (link: https://foursquare.com)
 
 ------
 
