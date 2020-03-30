@@ -80,21 +80,14 @@ Clustering analysis resulted in 8 districts. However, one of the clusters, clust
 
 I studied through all venue categories cluster by cluster. Based on the study I created clusters names that describe categories best based on my subjective opinion.  Cluster names are presented below. 
 
-Cluster 0   International restaurants and shops       1 districts
-
-Cluster 1   French restaurants and shopping streets   14 districts
-
-Cluster 2   Bankers, boutiques and restaurants        1 districts
-
-Cluster 3   Grocery shops and small food shops        1 districts
-
-Cluster 4   Hotels, fancy dining and jewelry          2 districts
-
-Cluster 5   Playgrounds and young adults              1 districts
-
-Cluster 6   Medical centre and pharmacy               1 districts
-
-Cluster 7   Amphitheater and outside hanging          1 districts
++ Cluster 0   International restaurants and shops       1 districts
++ Cluster 1   French restaurants and shopping streets   14 districts
++ Cluster 2   Bankers, boutiques and restaurants        1 districts
++ Cluster 3   Grocery shops and small food shops        1 districts
++ Cluster 4   Hotels, fancy dining and jewelry          2 districts
++ Cluster 5   Playgrounds and young adults              1 districts
++ Cluster 6   Medical centre and pharmacy               1 districts
++ Cluster 7   Amphitheater and outside hanging          1 districts
 
 Four districts had less than 3000 inhabitants per total number of complimentary venues. These were Lyon 1 - Place des Terreaux, Lyon 2 - Place Bellecour, Lyon 4 - Croix-Rousse, Lyon 5 - Old Lyon and Lyon 6 - Parc de la Tete dOr’. Especially, the tourist location Lyon 1 and Lyon 2 have extreme fierce competition. Lyon 1 - Place Bellecour district have only 564 restaurants per an inhabitant.
 
