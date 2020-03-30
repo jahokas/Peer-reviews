@@ -74,19 +74,24 @@ Finally, the results are presented in a table and a map with clustering labels i
 
 Lyon has ca. 500 000 inhabitants and 53% of them are women. The population is growing steadily ca. 0,8% in a year. New people are born much faster than dying. In 2008 Lyon new babies were 7 339 births and less than half of births,  3 324 inhabitants died. Women in the age group of  30-45 years is approximately 20%. Younger women are also potential customers and the age group of 15-29 forms 29% of all women in Lyon.
 
-15 districts had less than 10 complimentary restaurants and services. They were dropped from the list of potential locations for new coffeeshops.
+There are 15 districts had less than 10 complimentary restaurants and services in Lyon. They were dropped from the list of potential locations for new coffeeshops.
 
-Four districts had less than 3000 inhabitants per total number of complimentary venues. These were Lyon 1 - Place des Terreaux, Lyon 2 - Place Bellecour, Lyon 4 - Croix-Rousse, Lyon 5 - Old Lyon and Lyon 6 - Parc de la Tete dOr’. Especially, the tourist location Lyon 1 and Lyon 2 have extreme fierce competition. Place Bellecour district have only 564 restaurants per an inhabitant.
+Clustering analysis resulted in 8 districts. However, one of the clusters, cluster 1, includes 14 different districts out of 22 total amount of districts. The results implies that several districts resemble each other in terms of venue categories.
 
-Giving the following names to the clusters
-Cluster 0 - International restaurants and shops - Red - 1 districts
-Cluster 1 - French restaurants and shopping streets - Purple - 14 districts
-Cluster 2 - Bankers, boutiques and restaurants - Navy Blue - 1 districts
-Cluster 3 - Grocery shops and small food shops - Petrol Blue - 1 districts
-Cluster 4 - Hotels, fancy dining and jewellery - Dark Green - 2 districts
-Cluster 5 - Playgrounds and young adults - Light Green - 1 districts
-Cluster 6 - Medical centre and pharmacy - Yellow - 1 districts
-Cluster 7 - Amphitheater and outside hanging - Orange - 1 districts
+I studied through all venue categories cluster by cluster. Based on the study I created clusters names that describe categories best based on my subjective opinion.  Cluster names are presented below. 
+
+Cluster 0   International restaurants and shops       1 districts
+Cluster 1   French restaurants and shopping streets   14 districts
+Cluster 2   Bankers, boutiques and restaurants        1 districts
+Cluster 3   Grocery shops and small food shops        1 districts
+Cluster 4   Hotels, fancy dining and jewelry          2 districts
+Cluster 5   Playgrounds and young adults              1 districts
+Cluster 6   Medical centre and pharmacy               1 districts
+Cluster 7   Amphitheater and outside hanging          1 districts
+
+Four districts had less than 3000 inhabitants per total number of complimentary venues. These were Lyon 1 - Place des Terreaux, Lyon 2 - Place Bellecour, Lyon 4 - Croix-Rousse, Lyon 5 - Old Lyon and Lyon 6 - Parc de la Tete dOr’. Especially, the tourist location Lyon 1 and Lyon 2 have extreme fierce competition. Lyon 1 - Place Bellecour district have only 564 restaurants per an inhabitant.
+
+Finally, only two districts turned out to be viable to establish restaurants in Lyon. Lyon 3 - La Part-Dieu that resides near railway station and big shopping center and Lyon 7 - Rhone that is located near southern tram and railway connection.
 
 ## 5. Discussion
 
