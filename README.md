@@ -93,11 +93,9 @@ Finally, only two districts turned out to be viable to establish restaurants in 
 Based on demographic characteristics Lyon is very promising city to establish a Nordic coffeehouses. Women in the age group of  15-45 years make almost 50% of all women in Lyon. However, competition is fierce on several districts in coffeehouse business. Clustering analysis and careful study on complimentary services reduce the number of potential districts to only two. In the district Lyon 3 one of the biggest shopping centre predominates commercial services including restaurants. It is possible several restaurants and cafes operate in the shopping centre, but they are not necessary mentioned in the  Foursquare service platform. Consequently, only one district remains as an option for coffeehouse, Lyon 7 - Rhone area.
 
 ## 6. Conclusions
-
-
+Desktop analyses including web searching, exploratory data analysis and inferential statistical testing give you a good base for a market research. The study helps you to limit the range of potential business locations. In other words, they save time and money compared to visits on different districts and cities. However, the desktop study do not fully replace visits.  Maybe, the locations is not easily accessible due to road construction work. The streets might not be safe. You have to check if your assumptions are true in reality, before initiate any detailed planning for new business in the city.
 
 ## 7. References
-
 Literature
 * 'How to Choose the Best Restaurant Location for Your Business' (https://fitsmallbusiness.com/choose-a-restaurant-location/)
 * 'How Restaurant Analytics Can Make Your Business More Profitable' (https://www.datapine.com/blog/benefit-from-your-data-with-restaurant-analytics)
